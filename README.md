@@ -1,7 +1,7 @@
 Contadores da história:
 <!-- Coloque seu nome em (nome) -->
 Eduardo Reichel Vieira, 
-(nome), 
+Vinicius Torquato de Siqueira, 
 (nome), 
 (nome), 
 (nome)
