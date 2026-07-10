@@ -1,7 +1,7 @@
 Contadores da história:
 <!-- Coloque seu nome em (nome) -->
 Eduardo Reichel Vieira, 
-(nome), 
+Lucas P. Polastri, 
 (nome), 
 (nome), 
 (nome)
